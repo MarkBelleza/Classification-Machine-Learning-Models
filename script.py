@@ -8,7 +8,7 @@ from sklearn.neighbors import KNeighborsClassifier
 import tensorflow as tf
 from sklearn.naive_bayes import GaussianNB
 
-data = pd.read_csv(r'C:\Users\Mark\Documents\844\A1\adult.data', header=None)
+data = pd.read_csv(r'adult.data', header=None)
 
 data.columns = ['age', 'workclass', 'fnlwgt', 'education', 'education-num', 
                 'martial-status', 'occupation', 'relationship', 'race', 'sex', 
