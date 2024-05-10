@@ -10,4 +10,5 @@ Classifiers used:
   - Artificial Neural Networks
 
 script.py ran on Spyder IDE.
+
 Dataset found in: https://archive.ics.uci.edu/dataset/2/adult
