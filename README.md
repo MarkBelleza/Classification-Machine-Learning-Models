@@ -1,6 +1,6 @@
 # Classification-methods
 We utilized 5 different classification methods to analyze and predict a dataset whether an individual's income exceeds $50,000 annually.
-
+Also analyzed which feature(s) hold the most importance in the dataset.
 
 Classifiers used: 
   - Decision Tree 
